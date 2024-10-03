@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m BHOJ RAJ THAKUR<br>💞️ I’m looking to collaborate on C++ and Java Projects<br>📫 How to reach me: @bhoju.ig on INSTAGRAM
+👋 Hi, I’m BHOJ RAJ THAKUR<br>💞️ I’m looking to collaborate on Front End and Java Projects<br>📫 How to reach me: @bhoju.ig on INSTAGRAM
 
 
 ## 🌐 Socials:
